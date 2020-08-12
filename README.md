@@ -11,6 +11,7 @@ There are six different pieces:
 * Knight
 * Queen
 * King
+
 ![](https://raw.githubusercontent.com/Dragowitch123/Chess-master-Demo/master/Chess-master/Images/MiddleOfGame.png)
 
 
