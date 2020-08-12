@@ -34,7 +34,7 @@ The king may move to any square which is adjacent to it, given that it does not 
 There are three special actions:
 * Pawn Promotion
 * Castling
-* En Passant
+* Movement
 
 ### Pawn Promotion
 If a pawn reaches the other end of the board, the user may pick whether to promote it to a queen, rook, knight, or bishop.
