@@ -1,11 +1,6 @@
 # Chess
 Chess simulation. Click on the piece to move, and the location to move it to. If the action is legal, it will be taken. The game is done once a King enters checkmate, or once there is a draw.
 
-## Setup
-1. The Java version for this project is Java 8.
-2. Make sure you have the JDK or JRE installed. If you do not have either of those installed, you can install the JRE by going [here](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) and following the steps.
-3. Download the Chess.jar file to your computer.
-4. Afterwards, you can run the application by running the jar file.
 
 ## Pieces
 There are six different pieces:
@@ -46,7 +41,7 @@ If a pawn reaches the other end of the board, the user may pick whether to promo
 ### Castling
 If the rook and king have not yet moved, and there are no pieces between them, the king may move two squares towards the rook, and the rook may move to the adjacent square in which the king moved from, given that the king was not in check, will not move into check, and the path between where the king moved from and is moving to does not have any squares which are in check.
 
-### En Passant
+### Movement
 Immediately after a pawn moves two squares, a pawn may capture it as if it had only moved one square.
 
 ## Special States
