@@ -11,6 +11,8 @@ There are six different pieces:
 * Knight
 * Queen
 * King
+![](https://raw.githubusercontent.com/Dragowitch123/Chess-master-Demo/master/Chess-master/Images/MiddleOfGame.png)
+
 
 ### Pawn
 The pawn may move one square forward, or two squares forward on its first action, given that it does not move over any other pieces. The pawn may capture by moving one square diagonally forward.
